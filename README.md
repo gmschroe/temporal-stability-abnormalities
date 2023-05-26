@@ -1,5 +1,6 @@
 # temporal-stability-abnormalities
-Code for Wang et al. (2023) Temporal stability of intracranial EEG abnormality maps for localizing epileptogenic tissue
+Code for [Wang et al. (2023) Temporal stability of intracranial EEG abnormality maps for localizing epileptogenic tissue, *Epilepsia*](https://doi.org/10.1111/epi.17663)
+
 
 ## Requirements
 
