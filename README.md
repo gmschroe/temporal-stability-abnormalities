@@ -17,7 +17,7 @@ Dependencies are provided in `requirements.txt`. The following shell code create
     # install the dependencies
     python -m pip install -r requirements.txt
     
-When you you are finished running the code, you can deactivate the environment by either closing the shell/terminal or using the shell command
+When you finish running the code, you can deactivate the environment by either closing the shell/terminal or using the shell command
 
     deactivate 
 
