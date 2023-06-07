@@ -1,6 +1,7 @@
 # temporal-stability-abnormalities
 Code for [Wang et al. (2023) Temporal stability of intracranial EEG abnormality maps for localizing epileptogenic tissue, *Epilepsia*](https://doi.org/10.1111/epi.17663)
 
+For the offical repository for the paper, please see the [CNNP Lab GitHub](https://github.com/cnnp-lab/2023Wang_Temporal-stability).
 
 ## Requirements
 
