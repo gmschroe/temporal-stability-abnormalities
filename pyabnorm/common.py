@@ -99,8 +99,6 @@ def set_paths(data_dir='data',plot_dir='plots'):
     print('Setting data and plot directories...')
 
     # directory containing patient data
-    data_dir = 'data'
-
     print(f'Data directory: {data_dir}')
 
     # directory for plots (makes directory if doesn't exist)
